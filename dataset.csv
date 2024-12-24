@@ -24,3 +24,9 @@ customer_id	customer_name	email	purchase_date	purchase_amount
 56792155	Mark Edwards	mark.edwards@gmail.com	2020-12-11	610.22
 31498555	Lisa Collins	lisa.collins@example.com	2022-05-06	920.85
 70221198	George Evans	george.evans@yahoo.com	2024-01-19	NaN
+
+
+git config --global user.email "varun.ai.addh@gmail.com"
+
+
+generate_detailed_report
