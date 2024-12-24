@@ -1,3 +1,6 @@
 {
-    "livePreview.defaultPreviewPath": "/Data_Validation/ydata_profiling_report.html"
+    "livePreview.defaultPreviewPath": "/Data_Validation/ydata_profiling_report.html",
+    "python.analysis.extraPaths": [
+        "./Data_Validation"
+    ]
 }
